@@ -1,0 +1,5 @@
+delete_channels : to delete all of the rooms
+raid : to create mass shows, I recommend 100 by 100
+role : to create roles in mass it's quite slow...
+pass : Disable community mode on the server
+the prefix is ​​!
